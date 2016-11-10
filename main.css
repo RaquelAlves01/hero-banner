@@ -5,3 +5,12 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+.img-flex {
+  display: block;
+  width: 100%;
+}
+
+.banner-content {
+  font-family: 'Open Sans', sans-serif;
+}
