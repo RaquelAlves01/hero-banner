@@ -31,6 +31,7 @@ body {
 }
 
 .banner-content h2 {
+  display: inline;
   font-weight: 700;
   font-size: 4rem;
   background-color: rgba(0, 0, 0, 0.5);
