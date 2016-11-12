@@ -30,15 +30,16 @@ body {
   max-width: 50em;
 }
 
-.banner-content h2 {
+ h2 {
   display: inline;
   font-size: 4rem;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, .5);
   color: #fff;
 }
 
-.banner-content p {
+p {
   font-style: italic;
   font-size: 2rem;
-  margin-top: 1.3rem;
+  margin-top: 1rem;
+  margin-bottom: 1.3rem;
 }
