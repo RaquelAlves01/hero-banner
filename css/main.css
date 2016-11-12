@@ -25,8 +25,9 @@ body {
 .banner-content {
   position: absolute;
   bottom: 0;
-  left: 47%;
-  transform: translateX(-47%);
+  left: 50%;
+  transform: translateX(-50%);
+  max-width: 50em;
 }
 
 .banner-content h2 {
