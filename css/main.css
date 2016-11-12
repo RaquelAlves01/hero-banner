@@ -29,10 +29,6 @@ body {
   transform: translateX(-47%);
 }
 
-.banner-wrapper {
-  margin: 0;
-}
-
 .banner-content h2 {
   display: inline;
   font-size: 4rem;
