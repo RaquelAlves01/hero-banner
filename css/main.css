@@ -25,14 +25,16 @@ body {
 .banner-content {
   position: absolute;
   bottom: 0;
-  left: 50%;
-  position: absolute;
-  transform: translateX(-50%);
+  left: 47%;
+  transform: translateX(-47%);
+}
+
+.banner-wrapper {
+  margin: 0;
 }
 
 .banner-content h2 {
   display: inline;
-  font-weight: 700;
   font-size: 4rem;
   background-color: rgba(0, 0, 0, 0.5);
   color: #fff;
@@ -41,4 +43,5 @@ body {
 .banner-content p {
   font-style: italic;
   font-size: 2rem;
+  margin-top: 1.3rem;
 }
