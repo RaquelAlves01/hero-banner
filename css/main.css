@@ -29,6 +29,8 @@ body {
   left: 50%;
   transform: translateX(-50%);
   max-width: 50em;
+  margin: 1rem;
+  margin-bottom: -0.5rem;
 }
 
  h2 {
@@ -40,7 +42,7 @@ body {
 
 p {
   font-style: italic;
-  font-size: 1.5rem;
+  font-size: 2rem;
   margin-top: 1rem;
   margin-bottom: 1.3rem;
 }
